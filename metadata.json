@@ -1,0 +1,8 @@
+{
+  "name": "TaskFlow Pro",
+  "description": "Professional task management and productivity SaaS with gamification, project tracking, archive, Excel export, and Arabic/English bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
